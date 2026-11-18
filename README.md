@@ -44,3 +44,29 @@ This project analyzes employee attrition using MySQL and the IBM HR Analytics Em
 
 ## 🎯 Project Objective
 To analyze workforce data, identify major employee attrition factors and provide actionable insights that can help organizations improve employee retention and workforce planning.
+
+
+## 📸 Project Visualizations
+
+### 1. Department-wise Employee Attrition
+![Department Attrition](Screenshot%202026-11-18%20191045.png)
+
+### 2. Job Role-wise Employee Attrition
+![Job Role Attrition](Screenshot%202026-11-18%20191100.png)
+
+### 3. Overtime and Job Satisfaction Analysis
+![Overtime Analysis](Screenshot%202026-11-18%20191116.png)
+
+### 4. Employee Salary Analysis
+![Salary Analysis](Screenshot%202026-11-18%20191134.png)
+
+---
+
+## 🎯 Conclusion
+
+This project demonstrates how SQL can be used to analyze employee attrition, identify workforce trends, and generate meaningful business insights to support better employee retention strategies.
+
+**Tools Used:** MySQL | SQL | PowerPoint
+
+**Dataset:** IBM HR Analytics Employee Attrition Dataset
+
